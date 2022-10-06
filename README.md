@@ -19,10 +19,10 @@ HTML, HTML5, CSS, CSS3, BOOTSTRAP5, JS, REACT.JS
 #
 Node.js
 #
-# OTHER SKILLS
-#
--> Basics of Linux OS
-#
--> C Programming
+# PROGRAMMING SKILLS
+-> C
+-> C++
+-> JAVA
+-> Python
 
 
