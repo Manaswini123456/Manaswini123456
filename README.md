@@ -21,8 +21,11 @@ Node.js
 #
 # PROGRAMMING SKILLS
 -> C
+#
 -> C++
+#
 -> JAVA
+#
 -> Python
 
 
