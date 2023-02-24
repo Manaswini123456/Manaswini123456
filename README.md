@@ -9,7 +9,7 @@ most and makes to crave for it by adding it to my projects, one of the instance 
 #
 ### SKILL SET (FRONT-END)
 #
-HTML, HTML5, CSS, CSS3, BOOTSTRAP5, JS, REACT.JS
+HTML, HTML5, CSS, CSS3, BOOTSTRAP5,TAILWIND CSS, JS, REACT.JS
 # 
 ### SKILL SET (BACK-END)
 #
@@ -17,8 +17,6 @@ Node.js
 #
 # PROGRAMMING SKILLS
 -> C
-#
--> C++
 #
 -> JAVA
 #
