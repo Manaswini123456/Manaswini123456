@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@manaswini_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manaswini_2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manaswini voolapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaswini voolapalli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Manaswini voolapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaswini voolapalli" height="30" width="40" /></a>
 <a href="https://instagram.com/voolapallimanaswini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="voolapallimanaswini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manaswini_01" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="manaswini_01" height="40" width="40"  /></a>
 <a href="https://www.hackerrank.com/@janu2001dec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@janu2001dec" height="30" width="40" /></a>
