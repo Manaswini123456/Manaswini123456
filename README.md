@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manaswini Voolapalli</h1>
 <h3 align="center">An enthusiastic and passionate full stack Web and App developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manaswini123456&label=Profile%20views&color=0e75b6&style=flat" alt="manaswini123456" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaswini123456" alt="manaswini123456" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **janu2001dec@gmail.com**
+- 📫 How to reach me **manaswiniv2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
