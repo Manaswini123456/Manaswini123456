@@ -5,8 +5,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaswini123456" alt="manaswini123456" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-
+  
 - 📫 How to reach me **manaswiniv2001@gmail.com**
+  
+- 💼 Portfolio Link - https://portfolio-five-pi-39.vercel.app/
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
