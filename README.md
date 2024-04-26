@@ -4,7 +4,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manaswini123456" alt="manaswini123456" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
   
 - 📫 How to reach me **manaswiniv2001@gmail.com**
   
