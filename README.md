@@ -108,6 +108,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -125,6 +128,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manaswini123456&" alt="manaswini123456" />
 </p>
 
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Manaswini123456&theme=dracula" alt="manaswini123456" />
-</p>
+[![Manaswini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manaswini123456&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
