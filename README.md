@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center" style="background-color: #ffcc00; padding: 10px; border-radius: 10px; font-size: 25px; font-weight: bold; color: #000;">
+<p align="center" style="background-color: #ffcc00; padding: 15px; border-radius: 15px; font-size: 30px; font-weight: bold; color: #000;">
   📧 manaswiniv2001@gmail.com
 </p>
 
@@ -32,7 +32,7 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,bootstrap,webpack,nodejs,express,mongodb,mysql,sqlite,python,django,git,github,postman,figma,firebase,gcp,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,bootstrap,webpack,nodejs,express,mongodb,mysql,sqlite,python,django,flask,git,github,postman,figma,firebase,gcp,docker" />
 </p>
 
 ---
@@ -52,4 +52,3 @@
 </p>
 
 ---
-
