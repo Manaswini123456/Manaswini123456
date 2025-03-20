@@ -23,8 +23,8 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://twitter.com/@manaswini_2001" target="blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin: 10px;" /></a>
   <a href="https://www.linkedin.com/in/manaswini-voolapalli-994788201/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 10px;" /></a>
+  <a href="https://twitter.com/@manaswini_2001" target="blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin: 10px;" /></a>
   <a href="https://instagram.com/voolapallimanaswini" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" style="margin: 10px;" /></a>
 </p>
 
