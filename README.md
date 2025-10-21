@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manaswini123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Manaswini123456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manaswini123456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manaswini123456&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
